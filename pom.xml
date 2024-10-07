@@ -14,7 +14,7 @@
 
 	<groupId>io.github.nlscript</groupId>
 	<artifactId>nlScript-tutorial</artifactId>
-	<version>0.1.0</version>
+	<version>0.2.0</version>
 
 	<name>nlScript-tutorial</name>
 	<description>nlScript step-by-step tutorial.</description>
@@ -90,7 +90,7 @@
 		<dependency>
 			<groupId>io.github.nlscript</groupId>
 			<artifactId>nlScript</artifactId>
-			<version>0.1.0</version>
+			<version>0.2.0</version>
 		</dependency>
 
 		<dependency>
